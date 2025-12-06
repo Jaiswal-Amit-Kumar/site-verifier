@@ -258,27 +258,3 @@ If you need:
 
 Just ask — the system is fully extensible.
 
----
-
-## 🏁 Final Notes
-
-This project is **not licensed**, meaning:
-
-* It is private by default
-* You may use it internally
-* You may not redistribute it publicly unless you add your own license
-
-If you'd like a recommended MIT/Apache/GPL license added, I can generate it.
-
----
-
-### Would you like:
-
-🔥 A **project logo**
-📦 GitHub **release assets**
-🐳 A **Dockerfile & docker-compose**
-📘 API Documentation (OpenAPI schema)
-🚀 A VS Code launch profile
-
-Just tell me — I can generate all of them.
-
