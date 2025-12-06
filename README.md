@@ -1,6 +1,6 @@
-# site-verifier
 
-# <div align="center">🚀 Site Verifier</div>
+
+# <div align="center"> Site Verifier</div>
 
 ### <div align="center">*Ultra-Fast • Multilingual • Parallel • Enterprise-Grade Website Identification Engine*</div>
 
